@@ -3,7 +3,7 @@
 探字星球专为 3-8 岁儿童设计的汉字学习应用 — 500 个精选汉字的趣味互动学习
 
 - 网页版：https://tzxq.e8so.com/
-- 安卓版：该仓库下载最新版apk
+- 安卓版：该仓库下载 [[最新版apk]](https://github.com/linjialiang/tzxq-app/releases)
 
 ## 使用文档
 
